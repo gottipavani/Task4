@@ -21,10 +21,14 @@ Example: If User A and User B both like Item 101, and User B also likes Item 103
 
 2)Item-Based Recommendation System : Focuses on similarities between items.Recommends items to a user based on the similarity between items they have already rated.
 Example: If Item 101 and Item 103 are often rated together by many users, then a user who liked Item 101 will be recommended Item 103.
-
-OUTPUT :
-
-
 Recommends items to a user based on the similarity between items they have already rated.
+
+OUTPUT : ![Image](https://github.com/user-attachments/assets/7523afba-0de1-4678-be6d-3ad6af776122)
+
+![Image](https://github.com/user-attachments/assets/42a22754-44d2-4d72-8b35-c023cf6af898)
+
+![Image](https://github.com/user-attachments/assets/e37fcc47-e36c-4e19-9100-6209c3c71e3c)
+
+![Image](https://github.com/user-attachments/assets/722a8ef5-ea95-4bd7-a2c9-b7f9ea3a3003)
 
 Example: If Item 101 and Item 103 are often rated together by many users, then a user who liked Item 101 will be recommended Item 103.
