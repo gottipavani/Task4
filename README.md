@@ -1,0 +1,30 @@
+COMPANY : CODTECH IT SOLUTION
+NAME : G.PAVANI
+INTERN ID : CT6MTWN116
+DOMAIN : JAVA DEVELOPER 
+DURATION : 6MONTHS 
+MENTOR : NEELA SANTHOSH
+
+Description my project : In the modern digital era, recommendation systems play a crucial role in personalizing user experiences on platforms such as e-commerce websites, streaming services, and social media. By analyzing user behavior, preferences, and patterns, these systems suggest items that are most likely to interest the user. 
+This project implements an AI-based Recommendation System using Java and Apache Mahout, a popular machine learning library designed for scalable recommendation engines.
+
+The goal of this project is to build a simple yet functional recommendation engine that can predict and suggest items to users based on their past preferences. 
+Both User-Based Collaborative Filtering and Item-Based Collaborative Filtering approaches have been implemented to provide a comprehensive understanding of how recommendation systems work.
+
+Project Overview : 
+The system uses a dataset stored in a CSV file (data.csv), containing three columns: user ID, item ID, and preference value (rating). 
+Apache Mahout processes this dataset to compute similarities between users or items, and then generates recommendations.The project is divided into two main parts:
+
+1)User-Based Recommendation System :
+Identifies users who have similar preferences.Recommends items to a user based on what similar users liked.
+Example: If User A and User B both like Item 101, and User B also likes Item 103, then Item 103 is recommended to User A.
+
+2)Item-Based Recommendation System : Focuses on similarities between items.Recommends items to a user based on the similarity between items they have already rated.
+Example: If Item 101 and Item 103 are often rated together by many users, then a user who liked Item 101 will be recommended Item 103.
+
+OUTPUT :
+
+
+Recommends items to a user based on the similarity between items they have already rated.
+
+Example: If Item 101 and Item 103 are often rated together by many users, then a user who liked Item 101 will be recommended Item 103.
